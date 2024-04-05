@@ -50,3 +50,10 @@ The dashboard draws data from two primary sources:
 
 ## Screenshots
 ![ss 1](https://github.com/ManuViswanath/Business-Insights-360/assets/70531153/528bdda5-4be1-42f9-8fad-219a264f7e8c)
+![ss 2](https://github.com/ManuViswanath/Business-Insights-360/assets/70531153/33205046-f4d2-4491-b048-0d1dbc91186d)
+![ss 3](https://github.com/ManuViswanath/Business-Insights-360/assets/70531153/2103276e-dbfe-4e19-9e83-8ad280ac594e)
+![ss 4](https://github.com/ManuViswanath/Business-Insights-360/assets/70531153/70c0bd4d-5060-42fd-8b35-dbba0d61cd74)
+![ss 5](https://github.com/ManuViswanath/Business-Insights-360/assets/70531153/b9d06ced-26e7-47c1-9a0a-e29d72c34234)
+![ss 6](https://github.com/ManuViswanath/Business-Insights-360/assets/70531153/9630ce78-2519-48a9-a933-8eb3be4b6b65)
+![ss 7](https://github.com/ManuViswanath/Business-Insights-360/assets/70531153/745c4551-d105-4b7e-adc3-9b0b0dae09fc)
+![ss 8](https://github.com/ManuViswanath/Business-Insights-360/assets/70531153/42eeaa67-f58c-46fa-b0c5-e3bf27fde4dc)
