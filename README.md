@@ -49,7 +49,7 @@ The dashboard draws data from two primary sources:
 - Implemented effective data visualization techniques within the dashboard, enhancing the clarity and accessibility of key metrics for stakeholders.
 
 ## Screenshots
-![Screenshot 1](https://drive.google.com/file/d/1ZUy7Ng05MD6bGg4VEpLREUuJXQ1sJQD4/view?usp=sharing)
+![Screenshot 1](https://drive.google.com/file/d/1ZUy7Ng05MD6bGg4VEpLREUuJXQ1sJQD4/view?usp=drive_link)
 ![Screenshot 2](https://drive.google.com/file/d/1lMIPgSBYEKOHPqRZTBQeGqhq1A3r7SWj/view?usp=drive_link)
 ![Screenshot 3](https://drive.google.com/file/d/10cXJ21hDRtoCh44YkWXZLQ_Jll1aR0tq/view?usp=drive_link)
 ![Screenshot 4](https://drive.google.com/file/d/1PqajP9lmkNBvI6RHm6de57JfaPnCsj1B/view?usp=drive_link)
