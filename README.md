@@ -1,7 +1,7 @@
 # Business-Insights-360 Project
 ## Project Statement:
 AtliQ Hardware, alongside various businesses in Latin America, faced challenges due to outdated Excel-based analytical methods. Recognizing the need for modernization, the company embarked on a journey towards data-driven decision-making.
-## Live Dashboard - Click Here
+# Live Dashboard - Click Here
 
 ## Project Objective:
 To develop a comprehensive report offering deep insights into AtliQ Hardware's operational performance, utilizing the advanced capabilities of Power BI.
