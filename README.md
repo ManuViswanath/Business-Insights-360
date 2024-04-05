@@ -3,7 +3,7 @@
 ## Overview
 The Business Insights 360 offers a robust dashboard powered by Microsoft Power BI, tailored to provide AtliQ Hardware with comprehensive insights across their Finance, Sales, Marketing, and Supply Chain departments worldwide. This dynamic tool amalgamates data from Excel/CSV files and MySQL database, enabling a holistic view of the company's operations.
 
-**Live Dashboard:** [Click Here](#)
+**Live Dashboard:** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiZTU2N2ZhNzItODYwMS00OGU5LThmYzctNTE0ZDYzOTk2Njc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Key Highlights
 1. **Tailored Dashboard:** Crafted a versatile Power BI dashboard catering specifically to AtliQ Hardware's requirements, facilitating nuanced insights into their diverse departments.
@@ -23,5 +23,37 @@ The dashboard draws data from two primary sources:
    
 2. **MySQL Database:** Extracts Facts and Dimensions for all departments from a MySQL database.
 
+## Project Highlights:
+- **Finance Dashboard:** Detailed P&L statements featuring metrics like Gross Margin, Net Profit, and Net Sales coupled with time-based performance analysis.
+- **Sales Dashboard:** Focuses on customer and product performance, showcasing unit economics and a performance matrix based on Net Sales and Gross Margin percentage.
+- **Marketing Dashboard:** Highlights region and product performance, evaluates unit economics, and exhibits performance metrics in terms of Net Sales and Gross Margin percentage.
+- **Supply Chain Dashboard:** Provides insights into forecast accuracy, Net Error, and trends, presenting key metrics related to customers and products.
+- **Executive Dashboard:** Offers a comprehensive view of market share against competitors, trend analyses, revenue breakdowns, and highlights the top 5 customers and products.
+
+## Learnings from My Power BI Project:
+- Generating calculated columns
+- Formulating DAX measures
+- Utilizing KPI indicators for quick insights
+- Creating dynamic titles based on filters
+- Enhancing navigation with interactive buttons
+- Excelling in data modeling
+- Incorporating bookmarks for seamless visual transitions
+- Applying conditional formatting for impactful visuals
+- Publishing and sharing reports via Power BI services
+
+# Additional Points:
+- Designed and implemented a comprehensive Power BI multi-view dashboard tailored to the needs of 5 departments at AtliQ Hardware, enabling easy report management across teams.
+- Established an active dashboard capable of consolidating sales data from 2 distinct sources, including Excel/CSV files and a SQL database, totaling over 1 million records.
+- Ensured data integrity and quality assurance for the gathered sales data, facilitating accurate insights and decision-making processes.
+- Drafted a detailed Profit & Loss statement utilizing DAX expressions, empowering the company to analyze customer performance, assess market share, and strategize business process scaling by 10%.
+- Implemented effective data visualization techniques within the dashboard, enhancing the clarity and accessibility of key metrics for stakeholders.
+
 ## Screenshots
-[Insert screenshots here]
+![Screenshot 1](https://drive.google.com/file/d/1ZUy7Ng05MD6bGg4VEpLREUuJXQ1sJQD4/view?usp=drive_link)
+![Screenshot 2](https://drive.google.com/file/d/1lMIPgSBYEKOHPqRZTBQeGqhq1A3r7SWj/view?usp=drive_link)
+![Screenshot 3](https://drive.google.com/file/d/10cXJ21hDRtoCh44YkWXZLQ_Jll1aR0tq/view?usp=drive_link)
+![Screenshot 4](https://drive.google.com/file/d/1PqajP9lmkNBvI6RHm6de57JfaPnCsj1B/view?usp=drive_link)
+![Screenshot 5](https://drive.google.com/file/d/1VU6LXMUgsqsIzvxvKC3lBBO5NqA2ZNnx/view?usp=drive_link)
+![Screenshot 6](https://drive.google.com/file/d/1W38KnNS6RTLpk6njFcqZTWtex9vjgiat/view?usp=drive_link)
+![Screenshot 7](https://drive.google.com/file/d/1TMZQ_mo-krb3bUit2NXesr3XQUGmo_4R/view?usp=drive_link)
+![Screenshot 8](https://drive.google.com/file/d/1fhosmFRdXfvDQI-47wNNaq2zrZEPbPGv/view?usp=drive_link)
