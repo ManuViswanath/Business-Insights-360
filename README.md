@@ -49,11 +49,11 @@ The dashboard draws data from two primary sources:
 - Implemented effective data visualization techniques within the dashboard, enhancing the clarity and accessibility of key metrics for stakeholders.
 
 ## Screenshots
-![Screenshot 1](https://drive.google.com/file/d/1ZUy7Ng05MD6bGg4VEpLREUuJXQ1sJQD4/view?usp=sharing)
-![Screenshot 2](https://drive.google.com/file/d/1lMIPgSBYEKOHPqRZTBQeGqhq1A3r7SWj/view?usp=sharing)
-![Screenshot 3](https://drive.google.com/file/d/10cXJ21hDRtoCh44YkWXZLQ_Jll1aR0tq/view?usp=sharing)
-![Screenshot 4](https://drive.google.com/file/d/1PqajP9lmkNBvI6RHm6de57JfaPnCsj1B/view?usp=sharing)
-![Screenshot 5](https://drive.google.com/file/d/1VU6LXMUgsqsIzvxvKC3lBBO5NqA2ZNnx/view?usp=sharing)
-![Screenshot 6](https://drive.google.com/file/d/1W38KnNS6RTLpk6njFcqZTWtex9vjgiat/view?usp=sharing)
-![Screenshot 7](https://drive.google.com/file/d/1TMZQ_mo-krb3bUit2NXesr3XQUGmo_4R/view?usp=sharing)
-![Screenshot 8](https://drive.google.com/file/d/1fhosmFRdXfvDQI-47wNNaq2zrZEPbPGv/view?usp=sharing)
+![Screenshot 1](https://drive.google.com/file/d/1lYu-kERYBp7l-T3-xEkaWNt3fC6EsRka/view?usp=sharing)
+![Screenshot 2](https://drive.google.com/file/d/1w59O6h8TJ0H3g4wbAxT1IFnyvbGdfv21/view?usp=sharing)
+![Screenshot 3](https://drive.google.com/file/d/1uMHDmirBaCjS1yTtms3R5dz_Kjxh0ifj/view?usp=sharing)
+![Screenshot 4](https://drive.google.com/file/d/1O7UsiL-uDlO-8Azxi__hZAKLcGF8G-TZ/view?usp=sharing)
+![Screenshot 5](https://drive.google.com/file/d/1Daq9VtPFIa-RBy0TVbwmO9vZLN1-bizn/view?usp=sharing)
+![Screenshot 6](https://drive.google.com/file/d/1dg-r4E15g2lRPfLg9P2MXe7gSD-2tTF1/view?usp=sharing)
+![Screenshot 7](https://drive.google.com/file/d/1W3iyYw2Dd1KETXYzacG8K_7x_67TERrz/view?usp=sharing)
+![Screenshot 8](https://drive.google.com/file/d/11fivUqBuiV1_fIG9o8nhHJZD2-rVkNdt/view?usp=sharing)
