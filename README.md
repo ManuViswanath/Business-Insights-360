@@ -49,4 +49,4 @@ The dashboard draws data from two primary sources:
 - Implemented effective data visualization techniques within the dashboard, enhancing the clarity and accessibility of key metrics for stakeholders.
 
 ## Screenshots
-
+![ss 1](https://github.com/ManuViswanath/Business-Insights-360/assets/70531153/528bdda5-4be1-42f9-8fad-219a264f7e8c)
