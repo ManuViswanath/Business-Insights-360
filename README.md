@@ -50,10 +50,10 @@ The dashboard draws data from two primary sources:
 
 ## Screenshots
 ![Screenshot 1](https://drive.google.com/file/d/1ZUy7Ng05MD6bGg4VEpLREUuJXQ1sJQD4/view?usp=sharing)
-![Screenshot 2](https://drive.google.com/file/d/1lMIPgSBYEKOHPqRZTBQeGqhq1A3r7SWj/view?usp=drive_link)
-![Screenshot 3](https://drive.google.com/file/d/10cXJ21hDRtoCh44YkWXZLQ_Jll1aR0tq/view?usp=drive_link)
-![Screenshot 4](https://drive.google.com/file/d/1PqajP9lmkNBvI6RHm6de57JfaPnCsj1B/view?usp=drive_link)
-![Screenshot 5](https://drive.google.com/file/d/1VU6LXMUgsqsIzvxvKC3lBBO5NqA2ZNnx/view?usp=drive_link)
-![Screenshot 6](https://drive.google.com/file/d/1W38KnNS6RTLpk6njFcqZTWtex9vjgiat/view?usp=drive_link)
-![Screenshot 7](https://drive.google.com/file/d/1TMZQ_mo-krb3bUit2NXesr3XQUGmo_4R/view?usp=drive_link)
-![Screenshot 8](https://drive.google.com/file/d/1fhosmFRdXfvDQI-47wNNaq2zrZEPbPGv/view?usp=drive_link)
+![Screenshot 2](https://drive.google.com/file/d/1lMIPgSBYEKOHPqRZTBQeGqhq1A3r7SWj/view?usp=sharing)
+![Screenshot 3](https://drive.google.com/file/d/10cXJ21hDRtoCh44YkWXZLQ_Jll1aR0tq/view?usp=sharing)
+![Screenshot 4](https://drive.google.com/file/d/1PqajP9lmkNBvI6RHm6de57JfaPnCsj1B/view?usp=sharing)
+![Screenshot 5](https://drive.google.com/file/d/1VU6LXMUgsqsIzvxvKC3lBBO5NqA2ZNnx/view?usp=sharing)
+![Screenshot 6](https://drive.google.com/file/d/1W38KnNS6RTLpk6njFcqZTWtex9vjgiat/view?usp=sharing)
+![Screenshot 7](https://drive.google.com/file/d/1TMZQ_mo-krb3bUit2NXesr3XQUGmo_4R/view?usp=sharing)
+![Screenshot 8](https://drive.google.com/file/d/1fhosmFRdXfvDQI-47wNNaq2zrZEPbPGv/view?usp=sharing)
